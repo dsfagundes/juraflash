@@ -1,6 +1,6 @@
-﻿categoria,portugues,ingles
-PROCURAÇÃO / POWER-OF-ATTORNEY,por meio deste; pelo presente ato,thereby
-PROCURAÇÃO / POWER-OF-ATTORNEY,deste instrumento; do presente,"thereof; ""of this document"""
+categoria,portugues,ingles
+PROCURAÇÃO / POWER-OF-ATTORNEY,por meio deste; pelo presente ato,hereby
+PROCURAÇÃO / POWER-OF-ATTORNEY,deste instrumento; do presente,"hereof; ""of this document"""
 PROCURAÇÃO / POWER-OF-ATTORNEY,do mesmo; daquilo,thereof
 PROCURAÇÃO / POWER-OF-ATTORNEY,saibam quantos este público instrumento virem,know all by these presents; to all to whom this instrument may come
 PROCURAÇÃO / POWER-OF-ATTORNEY,poderes gerais e ilimitados,broad and unlimited powers
@@ -11,7 +11,7 @@ PROCURAÇÃO / POWER-OF-ATTORNEY,dou fé,witness my hand; I attest to
 PROCURAÇÃO / POWER-OF-ATTORNEY,subscrevo e assino em público e raso com sinal que uso,I do hereunto set my hand in my official capacity
 PROCURAÇÃO / POWER-OF-ATTORNEY,"sendo-lhe lido em voz alta, outorga, aceita e assina","having been read aloud, [Grantor] grants, accepts and executes"
 PROCURAÇÃO / POWER-OF-ATTORNEY,lavrar [um instrumento],draft [an instrument]
-PROCURAÇÃO / POWER-OF-ATTORNEY,estando justas e contratadas,in witness whereof
+PROCURAÇÃO / POWER-OF-ATTORNEY,por estarem justas e contratadas; por estar assim constuída; em testemunho do que,in witness whereof
 PROCURAÇÃO / POWER-OF-ATTORNEY,adquirir ou alienar imóveis,acquire or dispose of real estate property
 PROCURAÇÃO / POWER-OF-ATTORNEY,"receber e transmitir domínio, direito, ação e posse","receive and transfer right, title and interest"
 PROCURAÇÃO / POWER-OF-ATTORNEY,assinar todo e qualquer documento que se fizer necessário,execute any and all documents deemed necessary
@@ -47,22 +47,84 @@ BILL OF LADING / CONHECIMENTO DE EMBARQUE,??????,demurrage
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,taxa de capatazia (em reais),"DTHC BRL (Destination Terminal Handling Charge, in BRL)"
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,caixas,CTN (cartons)
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,??????,"CIF (Cost, Insurance and Freight)"
-CONTRATO SOCIAL,no valor nominal de,at the par value of
-CONTRATO SOCIAL,em moeda corrente do país,fully paid up in domestic currency
-CONTRATO SOCIAL,capital social; do capital social [da empresa],registered capital
-CONTRATO SOCIAL,cláusula,section
-CONTRATO SOCIAL,parágrafo único,[number of section].1
-CONTRATO SOCIAL,quotas,shares
-CONTRATO SOCIAL,o capital encontra-se subscrito e integralizado pelo(s) sócio(s) da seguinte forma,the shares are subscribed by and allotted among the members as follows
-CONTRATO SOCIAL,administração; da administração [da empresa],management
-CONTRATO SOCIAL,sede social,registered offices
-CONTRATO SOCIAL,a administração da sociedade será exercida pelo sócio [nome do sócio],the management of the company shall be vested in member [member's name]
-CONTRATO SOCIAL,sociedade anônima,corporation
-CONTRATO SOCIAL,sociedade limitada,limited-liability company; company
-CONTRATO SOCIAL,realizar transferências ou cobranças,perform wire transfers or collect funds
-CONTRATO SOCIAL,realizar ou resgatar aplicações financeiras e/ou investimentos,buy or redeem financial instruments or make investments
-CONTRATO SOCIAL,prestar garantias,pledge bonds and guarantees
-CONTRATO SOCIAL,solicitar a aquisição de novos produtos financeiros,request the acquisition of new financial products
-CONTRATO SOCIAL,os poderes previstos acima,the powers set forth above
-CONTRATO SOCIAL,"não constituindo o objeto social, a alienação ou a oneração de bens imóveis depende de autorização da maioria","the sale, divestiture, or the encumbering of any real property owned by the company is contingent on the authorization of members holding a majority of the company's shares"
-CONTRATO SOCIAL,balanço patrimonial; do balanço patrimonial [da empresa],fiscal year; balance sheet
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,no valor nominal de,at the par value of
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,em moeda corrente do país,fully paid up in domestic currency
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,capital social; do capital social [da empresa],registered capital
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,cláusula,section
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,parágrafo único,[number of section].1
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,quotas,shares
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,o capital encontra-se subscrito e integralizado pelo(s) sócio(s) da seguinte forma,the shares are subscribed by and allotted among the members as follows
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,administração; da administração [da empresa],management
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sede social,registered offices
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,a administração da sociedade será exercida pelo sócio [nome do sócio],the management of the company shall be vested in member [member's name]
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sociedade anônima,corporation
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sociedade limitada,limited-liability company; company
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,realizar transferências ou cobranças,perform wire transfers or collect funds
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,realizar ou resgatar aplicações financeiras e/ou investimentos,buy or redeem financial instruments or make investments
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,prestar garantias,pledge bonds and guarantees
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,solicitar a aquisição de novos produtos financeiros,request the acquisition of new financial products
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,os poderes previstos acima,the powers set forth above
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,"não constituindo o objeto social, a alienação ou a oneração de bens imóveis depende de autorização da maioria","the sale, divestiture or the encumbering of any real property owned by the company is contingent on the authorization of members holding a majority of the company's shares"
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,balanço patrimonial; do balanço patrimonial [da empresa],fiscal year; balance sheet
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,prestar contas justificadas,render accounts
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,elaborar inventário,take out and prepare inventories
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,balanço de resultado econômico,statement of profits and losses
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,se for o caso; conforme for o caso,as applicable
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,"cabendo ao(s) sócio(s), os lucros ou perdas apuradas na proporção de suas quotas",the members shall share in the profits or losses proportionately to their ownership of the company’s registered capital
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,declaração de desempedimento de administrador; da declaração de desempedimento de administrador [da empresa],statement of the company's management
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sob as penas da lei,under penalty of law
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,não está impedido de exercer a administração da empresa,[they] are not disqualified from managing the company
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,lei especial,special statutory privisions
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,condenação criminal,criminal conviction
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,"o administrator confirma que não está sob efeito de pena que vede, ainda que temporariamente, o acesso a cargos públicos",the managers confirm that no judgement whether temporarily or permanently bars them from holding any public office
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,fé pública,public trust
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,crime falimentar,bankruptcy fraud
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,prevaricação,prevarication
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,peita; suborno,bribery
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,concussão; extorsão,extortion
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,peculato,embezzlement; peculation
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,crime contra a economia popular,crimes adversely impacting public welfare
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,crimes contra normas de defesa da concorrência,crimes against fair competition; crimes adversely impacting fair competition
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,crimes contra a propriedade,crimes against property rights; crimes adversely impacting property rights
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,distribuição de lucros; da distribuição de lucros (da empresa),distribution of profits
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,levantar balanços,prepare balance sheets
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,balanços intermediários ou intercalares,interim balance sheets
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,a(s) parte(s) elege(m) o foro [nome da cidade] para dirimir quaisquer dúvidas decorrentes do presente instrumento contratual,the members hereby submit to the jurisdiction of the courts of [city] to resolve any disputes arising under this operating agreement
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,instrumento contratual,operating agreement
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,"renunciar a qualquer outro foro ou jurisdição, por mais privilegiado que possa ser","waive any other jurisdiction, as privileged as it may be"
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,exercício e cumprimento dos direitos e obrigações resultantes deste contrato,the exercise of rights and fulfillment of obligations as specified herein
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,estatuto social,articles of incorporation
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,contrato social,articles of organization; operation agreement
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,em via única,in one single counterpart
+HISTÓRICO ESCOLAR,ensino médio,secondary school
+HISTÓRICO ESCOLAR,filiação,parents; filiation
+HISTÓRICO ESCOLAR,naturalidade,place of birth
+HISTÓRICO ESCOLAR,carga horária,class hours
+HISTÓRICO ESCOLAR,frequência [na escola],class attendance
+HISTÓRICO ESCOLAR,livro contábil; livro de contabilidade,book; accounting record
+HISTÓRICO ESCOLAR,livro razão,ledger
+HISTÓRICO ESCOLAR,assinar,execute
+HISTÓRICO ESCOLAR,protocolar uma petição; distribuir um pedido,to file a petition
+HISTÓRICO ESCOLAR,requerimento; pedido; petição,petition
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,em causa de; nos autos [da ação],in the matter of
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,a bem de [nome],in the interest of [name]
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,menor de idade,child
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,maior de idade,of legal age
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,juízo de direito,in the district court
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,vara judicial,judicial district
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,condado,county
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,direito de família,family law
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,guarda compartilhada,joint custody
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,guarda individual,sole custody
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,direito de visitas,visitation right
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,ordem judicial; mandado de distanciamento; medida protetiva [de urgência],restraining order; protection order; stay-away order
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,vara de sucessões; juízo de sucessões,probate court
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,sentença homologatória de divórcio consensual,agreed final decree of divorce
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,juízo; tribunal ou corte (se for um colegiado),court
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,apreciar o presente feito,to hear this case
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,requerente,petitioner
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,anuir aos termos desta decisão,agree with the terms of this order
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,conforme atesta a assinatura de [nome] abaixo,as evidenced by [name's] signature below
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,requerido,respondent
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,marido,husband
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,mulher,wife

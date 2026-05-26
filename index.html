@@ -356,10 +356,10 @@
 </header>
 
 <div class="controls">
-  <button class="load-btn" onclick="document.getElementById('file-input').click()">
+  <button class="load-btn" onclick="document.getElementById('file-input').click()" id="upload-btn" style="display:none">
     ↑ Carregar CSV
   </button>
-  <input type="file" id="file-input" accept=".csv" onchange="loadCSV(event)">
+  <input type="file" id="file-input" accept=".csv" onchange="loadCSVFile(event)">
 
   <select id="category-select" onchange="filterCategory()" style="display:none">
     <option value="all">Todas as categorias</option>
@@ -378,11 +378,7 @@
 
 <div id="main-area" style="width:100%;max-width:860px;display:flex;justify-content:center;">
   <div class="state-msg">
-    <p>
-      <strong>Nenhum glossário carregado</strong>
-      Clique em <em>Carregar CSV</em> e selecione o arquivo<br>
-      <code>glossario_juridico.csv</code> para começar.
-    </p>
+    <p><strong>Carregando glossário…</strong></p>
   </div>
 </div>
 
@@ -397,15 +393,35 @@ let current = 0;
 let langMode = 'random';
 let flipped = false;
 
-function loadCSV(event) {
+// Auto-load on page start; fall back to manual upload if fetch fails
+document.addEventListener('DOMContentLoaded', () => {
+  fetch('glossario_juridico.csv')
+    .then(r => {
+      if (!r.ok) throw new Error(r.status);
+      return r.text();
+    })
+    .then(text => parseCSV(text))
+    .catch(() => showUploadFallback());
+});
+
+function showUploadFallback() {
+  document.getElementById('upload-btn').style.display = '';
+  document.getElementById('main-area').innerHTML = `
+    <div class="state-msg">
+      <p>
+        <strong>Nenhum glossário carregado</strong>
+        Clique em <em>Carregar CSV</em> e selecione o arquivo<br>
+        <code>glossario_juridico.csv</code> para começar.
+      </p>
+    </div>`;
+}
+
+function loadCSVFile(event) {
   const file = event.target.files[0];
   if (!file) return;
   const reader = new FileReader();
-  reader.onload = (e) => {
-    parseCSV(e.target.result);
-  };
+  reader.onload = (e) => parseCSV(e.target.result);
   reader.readAsText(file, 'UTF-8');
-  // reset input so same file can be reloaded
   event.target.value = '';
 }
 

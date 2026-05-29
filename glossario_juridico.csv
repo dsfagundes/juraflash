@@ -43,7 +43,7 @@ NOTAS CONTÁBEIS,vigente,prevailing
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,conhecimento de embarque,bill of lading
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,container refrigerado,RFH Container (Refrigerated Container)
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,??????,STC (Said To Contain)
-BILL OF LADING / CONHECIMENTO DE EMBARQUE,??????,demurrage
+BILL OF LADING / CONHECIMENTO DE EMBARQUE,sobrestadia,demurrage
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,taxa de capatazia (em reais),"DTHC BRL (Destination Terminal Handling Charge, in BRL)"
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,caixas,CTN (cartons)
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,??????,"CIF (Cost, Insurance and Freight)"
@@ -108,7 +108,7 @@ HISTÓRICO ESCOLAR,protocolar uma petição; distribuir um pedido,to file a peti
 HISTÓRICO ESCOLAR,requerimento; pedido; petição,petition
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,em causa de; nos autos [da ação],in the matter of
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,a bem de [nome],in the interest of [name]
-SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,menor de idade,child
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,menor [de idade]; infante,child
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,maior de idade,of legal age
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,juízo de direito,in the district court
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,vara judicial,judicial district
@@ -116,6 +116,9 @@ SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,condado,county
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,direito de família,family law
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,guarda compartilhada,joint custody
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,guarda individual,sole custody
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,guarda dos filhos,custody; child custody
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,guarda dos filhos (forma texana),conservatorship
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,atribuir ou deferir a guarda dos filhos a alguém,award custody of the children to someone
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,direito de visitas,visitation right
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,ordem judicial; mandado de distanciamento; medida protetiva [de urgência],restraining order; protection order; stay-away order
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,vara de sucessões; juízo de sucessões,probate court
@@ -123,8 +126,49 @@ SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,sentença homologatória de divórcio
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,juízo; tribunal ou corte (se for um colegiado),court
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,apreciar o presente feito,to hear this case
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,requerente,petitioner
-SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,anuir aos termos desta decisão,agree with the terms of this order
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,anuir; manifestar concordância; concordar,agree
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,conforme atesta a assinatura de [nome] abaixo,as evidenced by [name's] signature below
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,requerido,respondent
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,marido,husband
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,mulher,wife
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,esta sentença,this judgement
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,esta decisão,this order
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,até onde permitido por lei,to the extent permitted by law
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,na medida do possível,to the extent possible
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,comparecer espontaneamente em juízo,make a general appearance
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,dispensar,waive
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,prova testemunhal,record of testimony
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,competência e domicílio,jurisdiction and domicile
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,atendem aos interesses [da pessoa],are in the best interest of [the person]
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,fica determinado,it is ordered
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,deliberar,confer
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,registros médicos,medical records
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,autos conclusos; os autos estão conclusos,submitted to the judge; the case is pending before the judge
+CARTA PATENTE / LETTERS PATENT,carta patente,letters patent
+CARTA PATENTE / LETTERS PATENT,conceder [uma patente],award [a patent]
+CARTA PATENTE / LETTERS PATENT,direito de propriedade,ownership rights
+CARTA PATENTE / LETTERS PATENT,descrito neste instrumento; caracterizado neste título,herein described
+CARTA PATENTE / LETTERS PATENT,submeter algo para apreciação da autoridade competente,submit something for review by the competent authority
+CARTA PATENTE / LETTERS PATENT,apreciação; consideração; exame,review; consideration; examination
+CARTA PATENTE / LETTERS PATENT,à taxa aplicável prevista em lei,at the applicable statutory rates
+CARTA PATENTE / LETTERS PATENT,garantindo os direitos dela decorrentes,ensuring [all] the rights arising therefrom
+CARTA PATENTE / LETTERS PATENT,previstos na legislação em vigor,provided by the applicable law [in effect]
+CARTA PATENTE / LETTERS PATENT,número do depósito,patent filing no.
+CARTA PATENTE / LETTERS PATENT,data do depósito,date of filing
+CARTA PATENTE / LETTERS PATENT,pedido de patente,patent application
+CARTA PATENTE / LETTERS PATENT,princípio ativo,active ingredients
+CARTA PARTIDA / CHARTER PARTY,navio; embarcação,ship; vessel
+CARTA PARTIDA / CHARTER PARTY,em tempo bom e águas tranquilas,in good weather and smooth water
+CARTA PARTIDA / CHARTER PARTY,armadora [do navio],owner [of the vessel]
+CARTA PARTIDA / CHARTER PARTY,afretador(a),charterer
+CARTA PARTIDA / CHARTER PARTY,fardo,bale
+CARTA PARTIDA / CHARTER PARTY,combustível [de navio],bunkers; fuel
+CARTA PARTIDA / CHARTER PARTY,projeto do estaleiro,builder's plan
+CARTA PARTIDA / CHARTER PARTY,cavalos-vapor,horse power
+CARTA PARTIDA / CHARTER PARTY,compromisso da armadora,owners to provide
+CARTA PARTIDA / CHARTER PARTY,materiais de convés e praça de máquina,deck and engine room stores
+CARTA PARTIDA / CHARTER PARTY,casco,hull
+CARTA PARTIDA / CHARTER PARTY,maquinário,machinery
+CARTA PARTIDA / CHARTER PARTY,operador de guincho; operador de guincho de terra,winchman; shore winchman
+CARTA PARTIDA / CHARTER PARTY,escotilha de carga,hatch
+CARTA PARTIDA / CHARTER PARTY,estivadores,stevedores

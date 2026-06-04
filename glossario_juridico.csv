@@ -1,8 +1,8 @@
 categoria,portugues,ingles
-PROCURAÇÃO / POWER-OF-ATTORNEY,por meio deste; pelo presente ato,hereby
+PROCURAÇÃO / POWER-OF-ATTORNEY,por meio deste; pelo presente [ato],hereby
 PROCURAÇÃO / POWER-OF-ATTORNEY,deste instrumento; do presente,"hereof; ""of this document"""
 PROCURAÇÃO / POWER-OF-ATTORNEY,do mesmo; daquilo,thereof
-PROCURAÇÃO / POWER-OF-ATTORNEY,saibam quantos este público instrumento virem,know all by these presents; to all to whom this instrument may come
+PROCURAÇÃO / POWER-OF-ATTORNEY,saibam quantos este público instrumento virem,know all by these presents; know all to whom this instrument may come
 PROCURAÇÃO / POWER-OF-ATTORNEY,poderes gerais e ilimitados,broad and unlimited powers
 PROCURAÇÃO / POWER-OF-ATTORNEY,nomeia e constitui,appoints and constitutes
 PROCURAÇÃO / POWER-OF-ATTORNEY,receber e dar quitação,to receive and give full release
@@ -10,7 +10,7 @@ PROCURAÇÃO / POWER-OF-ATTORNEY,para o fiel cumprimento deste mandato de procur
 PROCURAÇÃO / POWER-OF-ATTORNEY,dou fé,witness my hand; I attest to
 PROCURAÇÃO / POWER-OF-ATTORNEY,subscrevo e assino em público e raso com sinal que uso,I do hereunto set my hand in my official capacity
 PROCURAÇÃO / POWER-OF-ATTORNEY,"sendo-lhe lido em voz alta, outorga, aceita e assina","having been read aloud, [Grantor] grants, accepts and executes"
-PROCURAÇÃO / POWER-OF-ATTORNEY,lavrar [um instrumento],draft [an instrument]
+PROCURAÇÃO / POWER-OF-ATTORNEY,lavrar; redigir; minutar,draw up; draft; make
 PROCURAÇÃO / POWER-OF-ATTORNEY,por estarem justas e contratadas; por estar assim constuída; em testemunho do que,in witness whereof
 PROCURAÇÃO / POWER-OF-ATTORNEY,adquirir ou alienar imóveis,acquire or dispose of real estate property
 PROCURAÇÃO / POWER-OF-ATTORNEY,"receber e transmitir domínio, direito, ação e posse","receive and transfer right, title and interest"
@@ -20,7 +20,8 @@ PROCURAÇÃO / POWER-OF-ATTORNEY,autarquia,government agency
 PROCURAÇÃO / POWER-OF-ATTORNEY,Receita Federal do Brasil,Brazilian Taxation Office; Brazilian Federal Revenue Service
 PROCURAÇÃO / POWER-OF-ATTORNEY,Sefaz (Secretaria da Fazenda),state treasury department
 PROCURAÇÃO / POWER-OF-ATTORNEY,cartório; ofício de notas,notary public office; notary office; office of the registry of notes
-PROCURAÇÃO / POWER-OF-ATTORNEY,cartório de registro de imóveis,real estate registry office
+PROCURAÇÃO / POWER-OF-ATTORNEY,oficial de registro; tabelião; notário,registrar; notary public
+PROCURAÇÃO / POWER-OF-ATTORNEY,cartório de registro de imóveis,land registry; register of deeds; real estate registry office
 PROCURAÇÃO / POWER-OF-ATTORNEY,por este público instrumento e nos melhores termos de direito,by means of this public instrument and in the best form of law
 PROCURAÇÃO / POWER-OF-ATTORNEY,RG; cédula de identidade,Brazilian national ID
 PROCURAÇÃO / POWER-OF-ATTORNEY,CPF,individual taxpayer registration
@@ -50,18 +51,18 @@ BILL OF LADING / CONHECIMENTO DE EMBARQUE,??????,"CIF (Cost, Insurance and Freig
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,no valor nominal de,at the par value of
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,em moeda corrente do país,fully paid up in domestic currency
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,capital social; do capital social [da empresa],registered capital
-CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,cláusula,section
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,cláusula (quando se refere a contrato); artigo (quando se refere a lei),section
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,parágrafo único,[number of section].1
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,quotas,shares
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,o capital encontra-se subscrito e integralizado pelo(s) sócio(s) da seguinte forma,the shares are subscribed by and allotted among the members as follows
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,administração; da administração [da empresa],management
-CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sede social,registered offices
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sede social,registered office
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,a administração da sociedade será exercida pelo sócio [nome do sócio],the management of the company shall be vested in member [member's name]
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sociedade anônima,corporation
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sociedade limitada,limited-liability company; company
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,realizar transferências ou cobranças,perform wire transfers or collect funds
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,realizar ou resgatar aplicações financeiras e/ou investimentos,buy or redeem financial instruments or make investments
-CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,prestar garantias,pledge bonds and guarantees
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,prestar garantias; prestar caução,pledge bonds and guarantees; give bond
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,solicitar a aquisição de novos produtos financeiros,request the acquisition of new financial products
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,os poderes previstos acima,the powers set forth above
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,"não constituindo o objeto social, a alienação ou a oneração de bens imóveis depende de autorização da maioria","the sale, divestiture or the encumbering of any real property owned by the company is contingent on the authorization of members holding a majority of the company's shares"
@@ -70,7 +71,7 @@ CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,prestar contas justificadas,render ac
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,elaborar inventário,take out and prepare inventories
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,balanço de resultado econômico,statement of profits and losses
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,se for o caso; conforme for o caso,as applicable
-CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,"cabendo ao(s) sócio(s), os lucros ou perdas apuradas na proporção de suas quotas",the members shall share in the profits or losses proportionately to their ownership of the company’s registered capital
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,cabem aos sócios os lucros ou perdas apuradas na proporção de suas quotas,the members shall share in the profits or losses proportionately to their ownership of the company’s registered capital
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,declaração de desempedimento de administrador; da declaração de desempedimento de administrador [da empresa],statement of the company's management
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,sob as penas da lei,under penalty of law
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,não está impedido de exercer a administração da empresa,[they] are not disqualified from managing the company
@@ -136,11 +137,11 @@ SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,esta decisão,this order
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,até onde permitido por lei,to the extent permitted by law
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,na medida do possível,to the extent possible
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,comparecer espontaneamente em juízo,make a general appearance
-SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,dispensar,waive
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,dispensar; renunciar,waive
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,prova testemunhal,record of testimony
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,competência e domicílio,jurisdiction and domicile
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,atendem aos interesses [da pessoa],are in the best interest of [the person]
-SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,fica determinado,it is ordered
+SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,fica determinado,it is ordered; it is directed
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,deliberar,confer
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,registros médicos,medical records
 SENTENÇA DE DIVÓRCIO / DECREE OF DIVORCE,autos conclusos; os autos estão conclusos,submitted to the judge; the case is pending before the judge
@@ -162,7 +163,7 @@ CARTA PARTIDA / CHARTER PARTY,em tempo bom e águas tranquilas,in good weather a
 CARTA PARTIDA / CHARTER PARTY,armadora [do navio],owner [of the vessel]
 CARTA PARTIDA / CHARTER PARTY,afretador(a),charterer
 CARTA PARTIDA / CHARTER PARTY,fardo,bale
-CARTA PARTIDA / CHARTER PARTY,combustível [de navio],bunkers; fuel
+CARTA PARTIDA / CHARTER PARTY,compartimento de combustível [de navio]; combustível [de navio],bunkers; fuel
 CARTA PARTIDA / CHARTER PARTY,projeto do estaleiro,builder's plan
 CARTA PARTIDA / CHARTER PARTY,cavalos-vapor,horse power
 CARTA PARTIDA / CHARTER PARTY,compromisso da armadora,owners to provide
@@ -172,3 +173,55 @@ CARTA PARTIDA / CHARTER PARTY,maquinário,machinery
 CARTA PARTIDA / CHARTER PARTY,operador de guincho; operador de guincho de terra,winchman; shore winchman
 CARTA PARTIDA / CHARTER PARTY,escotilha de carga,hatch
 CARTA PARTIDA / CHARTER PARTY,estivadores,stevedores
+CARTA PARTIDA / CHARTER PARTY,taxas portuárias,port charges
+CARTA PARTIDA / CHARTER PARTY,despesas de praticagem,pilotages
+CARTA PARTIDA / CHARTER PARTY,timoneiro,steerman
+CARTA PARTIDA / CHARTER PARTY,preço corrente,current price
+CARTA PARTIDA / CHARTER PARTY,devolução [do navio],re-delivery [of the vessel]
+CARTA PARTIDA / CHARTER PARTY,porão de carga,vault
+CERTIDÃO DE ANTECEDENTES CRIMINAIS / CRIMINAL RECORD CERTIFICATE,Departamento Federal de Investigação,Federal Bureau of Investigation
+CERTIDÃO DE ANTECEDENTES CRIMINAIS / CRIMINAL RECORD CERTIFICATE,análise de impressões digitais,fingerprint submission
+CERTIDÃO DE ANTECEDENTES CRIMINAIS / CRIMINAL RECORD CERTIFICATE,antecedentes criminais,criminal history; criminal record
+CERTIDÃO DE ANTECEDENTES CRIMINAIS / CRIMINAL RECORD CERTIFICATE,Dados Pessoais Identificáveis,Personally Identifiable Information
+CERTIDÃO DE ANTECEDENTES CRIMINAIS / CRIMINAL RECORD CERTIFICATE,Resumo de Histórico de Identidade,Identity History Summary
+CERTIDÃO DE ANTECEDENTES CRIMINAIS / CRIMINAL RECORD CERTIFICATE,exame [do documento],review [of document]
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,administrador ou depositário [de fundo patrimonial],trustee
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,instituidor,settlor; donor; grantor; trustor; creator; founder
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,titularidade real; verdadeiro titular,beneficial ownership; equitable title; beneficial owner; equitable owner
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,fundo; fundo patrimonial,trust
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,dever de lealdade,fiduciary duty
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,instrumento de instituição [de fundo patrimonial],trust agreement; trust declaration; trust instrument; trust deed
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,pessoa de confiança,fiduciary
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,mandatário,agent
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,representante,representative
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,advogado,attorney-at-law
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,testamenteiro; testamenteira,executor; executrix
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,inventariante,administrator
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,responsável; tutor,guardian
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,dever de informação,duty of disclosure
+INSTITUIÇÃO DE FUNDO PATRIMONIAL / TRUST AGREEMENT,dever de diligência,duty of care
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,testamento e última disposição de última vontade,last will and testament
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,[estando] em pleno gozo de minhas faculdades mentais,[being] of sound mind
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,"faço, publico e declaro","make, publish and declare"
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,revogo todo e qualquer testamento e codicilo anteriormente por mim lavrado,I [do] revoke any and all wills and codicils heretofore made by me
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,revogam-se todas as disposições em contrário,all provisions to the contrary are hereby repealed
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,espólio; patrimônio,estate
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,lego o remanescente do meu espólio,I give the rest of my estate
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,falecer antes [de alguém],predecease [someone]
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,"em partes iguais, divididas equitativamente","equally, share and share alike"
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,supérstite,survivor
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,descendentes; filhos,issue
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,uma cópia deste instrumento encontra-se em poder de meu advogado,a copy of this document is deposited for safekeeping with my attorney
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,a autoridade abaixo assinada,the undersigned authority
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,assinar e outorgar,sign and execute
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,testemunharam e subscreveram,witnessed and subscribed
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,sob coerção; sob restrição legal,under [legal] constraint
+TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,sob coação,under duress; under undue influence
+CERTIDÃO DE REGISTRO EMPRESARIAL / CERTIFICATE OF INCORPORATION,gestão de ativos,asset management
+CERTIDÃO DE REGISTRO EMPRESARIAL / CERTIFICATE OF INCORPORATION,cópia arquivada,file copy
+CERTIDÃO DE REGISTRO EMPRESARIAL / CERTIFICATE OF INCORPORATION,certificado de mudança de nome empresarial,certification of incorporation on change of name
+DECLARAÇÃO DE UNIÃO ESTÁVEL,tabelionato de notas e protesto de títulos,office of the registry of notes and protests
+DECLARAÇÃO DE UNIÃO ESTÁVEL,escritura; escritura pública,deed
+DECLARAÇÃO DE UNIÃO ESTÁVEL,união estável,domestic partnership
+DECLARAÇÃO DE UNIÃO ESTÁVEL,celebração deste contrato,execution and delivery of this agreement
+DECLARAÇÃO DE UNIÃO ESTÁVEL,expedição,issuance

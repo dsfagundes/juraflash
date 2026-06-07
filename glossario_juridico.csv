@@ -19,28 +19,28 @@ PROCURAÇÃO / POWER-OF-ATTORNEY,representar o Outorgante perante as repartiçõ
 PROCURAÇÃO / POWER-OF-ATTORNEY,autarquia,government agency
 PROCURAÇÃO / POWER-OF-ATTORNEY,Receita Federal do Brasil,Brazilian Taxation Office; Brazilian Federal Revenue Service
 PROCURAÇÃO / POWER-OF-ATTORNEY,Sefaz (Secretaria da Fazenda),state treasury department
-PROCURAÇÃO / POWER-OF-ATTORNEY,cartório; ofício de notas,notary public office; notary office; office of the registry of notes
+PROCURAÇÃO / POWER-OF-ATTORNEY,cartório; ofício de notas; serventia,notary public office; notary office; office of the registry of notes; registry office
 PROCURAÇÃO / POWER-OF-ATTORNEY,oficial de registro; tabelião; notário,registrar; notary public
 PROCURAÇÃO / POWER-OF-ATTORNEY,cartório de registro de imóveis,land registry; register of deeds; real estate registry office
 PROCURAÇÃO / POWER-OF-ATTORNEY,por este público instrumento e nos melhores termos de direito,by means of this public instrument and in the best form of law
 PROCURAÇÃO / POWER-OF-ATTORNEY,RG; cédula de identidade,Brazilian national ID
-PROCURAÇÃO / POWER-OF-ATTORNEY,CPF,individual taxpayer registration
-PROCURAÇÃO / POWER-OF-ATTORNEY,CNPJ,corporate taxpayer registration
+PROCURAÇÃO / POWER-OF-ATTORNEY,CPF,individual tax registration number
+PROCURAÇÃO / POWER-OF-ATTORNEY,CNPJ,corporate tax registration number; national register of legal entities
 PROCURAÇÃO / POWER-OF-ATTORNEY,procurador,attorney-in-fact
 PROCURAÇÃO / POWER-OF-ATTORNEY,outorgante [de uma procuração],grantor [of a power-of-attorney]
 PROCURAÇÃO / POWER-OF-ATTORNEY,procuração,power-of-attorney
 PROCURAÇÃO / POWER-OF-ATTORNEY,Dr. Ricardo Pereira [advogado],Mr. Ricardo Pereira
 PROCURAÇÃO / POWER-OF-ATTORNEY,perante mim compareceu como outorgante [nome],before me appeared personally [name] (as Grantor)
-NOTAS CONTÁBEIS,imobilizado,"property, plant and equipment (PP&E); fixed assets"
-NOTAS CONTÁBEIS,registrado pelo custo de aquisição,recorded at acquisition cost
-NOTAS CONTÁBEIS,método linear,straight-line method
-NOTAS CONTÁBEIS,taxas,rates
-NOTAS CONTÁBEIS,vida útil dos bens,useful life of the assets
-NOTAS CONTÁBEIS,depreciação,depreciation
-NOTAS CONTÁBEIS,amortização,amortization
-NOTAS CONTÁBEIS,desta forma,accordingly
-NOTAS CONTÁBEIS,previsto na legislação,provided for by the legislation
-NOTAS CONTÁBEIS,vigente,prevailing
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,imobilizado,"property, plant and equipment (PP&E); fixed assets"
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,registrado pelo custo de aquisição,recorded at acquisition cost
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,método linear,straight-line method
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,taxas,rates
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,vida útil dos bens,useful life of the assets
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,depreciação,depreciation
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,amortização,amortization
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,desta forma,accordingly
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,previsto na legislação,provided for by the legislation
+NOTAS CONTÁBEIS / ACCOUNTING NOTES,vigente,prevailing
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,conhecimento de embarque,bill of lading
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,container refrigerado,RFH Container (Refrigerated Container)
 BILL OF LADING / CONHECIMENTO DE EMBARQUE,??????,STC (Said To Contain)
@@ -90,11 +90,11 @@ CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,crimes contra a propriedade,crimes ag
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,distribuição de lucros; da distribuição de lucros (da empresa),distribution of profits
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,levantar balanços,prepare balance sheets
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,balanços intermediários ou intercalares,interim balance sheets
-CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,a(s) parte(s) elege(m) o foro [nome da cidade] para dirimir quaisquer dúvidas decorrentes do presente instrumento contratual,the members hereby submit to the jurisdiction of the courts of [city] to resolve any disputes arising under this operating agreement
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,a(s) parte(s) elege(m) o foro [nome da cidade] para dirimir quaisquer dúvidas decorrentes do presente instrumento contratual,the parties hereby submit to the jurisdiction of the courts of [city] to resolve any disputes arising under this operating agreement
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,instrumento contratual,operating agreement
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,"renunciar a qualquer outro foro ou jurisdição, por mais privilegiado que possa ser","waive any other jurisdiction, as privileged as it may be"
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,exercício e cumprimento dos direitos e obrigações resultantes deste contrato,the exercise of rights and fulfillment of obligations as specified herein
-CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,estatuto social,articles of incorporation
+CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,estatuto social,articles of incorporation; memorandum of association (UK)
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,contrato social,articles of organization; operation agreement
 CONTRATO SOCIAL / ARTICLES OF ORGANIZATION,em via única,in one single counterpart
 HISTÓRICO ESCOLAR,ensino médio,secondary school
@@ -220,8 +220,127 @@ TESTAMENTO E DISPOSIÇÃO DE ÚLTIMA VONTADE / LAST WILL AND TESTAMENT,sob coaç
 CERTIDÃO DE REGISTRO EMPRESARIAL / CERTIFICATE OF INCORPORATION,gestão de ativos,asset management
 CERTIDÃO DE REGISTRO EMPRESARIAL / CERTIFICATE OF INCORPORATION,cópia arquivada,file copy
 CERTIDÃO DE REGISTRO EMPRESARIAL / CERTIFICATE OF INCORPORATION,certificado de mudança de nome empresarial,certification of incorporation on change of name
-DECLARAÇÃO DE UNIÃO ESTÁVEL,tabelionato de notas e protesto de títulos,office of the registry of notes and protests
-DECLARAÇÃO DE UNIÃO ESTÁVEL,escritura; escritura pública,deed
-DECLARAÇÃO DE UNIÃO ESTÁVEL,união estável,domestic partnership
-DECLARAÇÃO DE UNIÃO ESTÁVEL,celebração deste contrato,execution and delivery of this agreement
-DECLARAÇÃO DE UNIÃO ESTÁVEL,expedição,issuance
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,tabelionato de notas e protesto de títulos,office of the registry of notes and protests
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,escritura; escritura pública,deed
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,união estável,domestic partnership; civil union
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,celebração deste contrato,execution and delivery of this agreement
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,expedição,issuance
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,protocolar um pedido,file a request
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,tabelião substituto,deputy registrar
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,tabelião titular [desta serventia],registrar in charge [of this office]
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,capacidade legal,legal capacity
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,declarar-se apto a exercer um ato,declare oneself capable of performing an act
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,incapacidade legal; impedimento legal,legal incapacity; legal impediment
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,incapacidade transitória; incapacidade temporária,temporary incapacity
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,de acordo com; conforme,pursuant to
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,nos termos de,in accordance with
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,portaria; ato normativo; ato administrativo,ordinance; administrative rule
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,decreto,decree
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,expedir [uma portaria],issue [an ordinance]
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,no exercício de suas competências,in the exercise of its powers
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,prerrogativas,privileges
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,falso testemunho,perjury
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,fazer um juramento; prestar um juramento,take an oath
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,termo de declarações; declaração juramentada,affidavit
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,supracitado; supramencionado,aforementioned
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,com a fé pública a mim atribuída por lei,by the authority vested in me by law
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,em seguida,subsequently
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,com o intuito de,with the intent of
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,em vista de,in view of
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,medida liminar,temporary injunction
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,indenizar,indemnify; compensate
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,cumprir deveres,fulfill duties
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,prometer [alguma coisa],undertake [to something]
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,educação [de filho],upbringing
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,denominar; denominado,style; styled
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,doravante denominado,hereinafter referred to as
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,partes [que assinam um contrato],parties
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,Registro Civil das Pessoas Naturais,Civil Registry of Natural Persons
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,"""Dou fé.""","""Witness my hand."""
+DECLARAÇÃO DE UNIÃO ESTÁVEL / DECLARATION OF DOMESTIC PARTNERSHIP,escritura pública,deed in public form
+DUDH / UNIVERSAL DECLARATION OF HUMAN RIGHTS,estabelecer em,set forth in
+DUDH / UNIVERSAL DECLARATION OF HUMAN RIGHTS,fraternidade,brotherhood
+DUDH / UNIVERSAL DECLARATION OF HUMAN RIGHTS,observância,observance
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,natureza jurídica [de uma empresa],status [of a company]
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,agente de registro,registered agent
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,por deliberação de,by resolution of
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,objeto social,purpose; business purpose
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,confere,confer [upon]
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,ativos remanescentes,surplus assets
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,dividendos,dividend
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,direito a participação igualitária,right to an equal share
+ESTATUTO SOCIAL / MEMORANDUM OF ASSOCIATION,ações nominativas,registered shares
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,em caráter irrevogável,on an irrevocable basis
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,imitir-se na posse de,take possession of
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,ressalvado o disposto no artigo X,except as provided in section X
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,arcar com despesas,bear costs and expenses
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,receber e ter posse livre e desembaraçada,obtain and exercise free and unencumbered possession
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,desembaraçada,unencumbered
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,escritura de compra e venda,deed of purchase and sale
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,ônus ocultos,undisclosed encumbrances
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,descumprimento,breach
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,adjudicação compulsória,forced conveyance of title
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,averbação,amendment; annotation
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,deferir,grant; allow
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,indeferir,deny; reject
+TRANSFERÊNCIA DA POSSE E DO TÍTULO / TRANSFER OF POSSESSION AND TITLE,declarante,affiant
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,matrícula,registration number
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,médicos ou testemunhas,attending physician or witnesses
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,local do sepultamento ou cremação,place of disposition or cremation
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,data do registro,date of filing
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,nome do declarante; nome do atestante,name of informant; name of certifier
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,existência de bens,left assets or estate
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,existência de filhos,left surviving children
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,anotações,annotations
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,ato,entry
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,falecido(a),decedent
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,era eleitor,[decedent] was a registered voter
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,"""O conteúdo da certidão é verdadeiro.""","""This certificate is a true and accurate copy of the record on file."""
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,escrevente autorizado,authorized clerk
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,agência funerária,funeral facility
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,destinação dos restos mortais,disposition
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,parentesco com o(a) falecido(a),relationship to decedent
+CERTIDÃO DE ÓBITO / CERTIFICATE OF DEATH,ocupação e ramo de atividade,occupation and industry
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,exercício [ano],fiscal year
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,ano-calendário,reporting year
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,rendimentos tributáveis,taxable income
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,pessoa jurídica,legal entity
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,pessoa física,individual
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,desconto simplificado,standard deduction
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,base de cálculo de imposto,taxable basis
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,imposto devido,tax payable; tax due
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,alíquota,rate
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,imposto a restituir,tax refundable
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,imposto retido na fonte,tax witheld at source
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,rendimentos isentos e não tributáveis,exempt and non-taxable income
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,evolução patrimonial,changes in assets and liabilities
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,bens e direitos,assets and interests
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,dívidas e ônus reais,debts and property liens
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,carnê-leão,monthly tax payments
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,dígito verificador,verification code
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,dependentes,dependents
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,parcelamento,installment scheme
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,seguridade social,social security
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,alínea,letter; paragraph; subitem
+DECLARAÇÃO DE IRPF / INCOME TAX RETURN,inciso,item
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,a pedido da parte interessada,at the request of the applicant
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,"""no livro de registro de casamento B-46, na folha 47, sob número 234, consta o seguinte teor""","""an entry of record numbered 234 was found on page 47 of Register of Marriage B-46, the contents of which are as follows"""
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,Juiz Especial de Casamento; Juiz de Paz,Justice of the Peace for Marriages
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,testemunhas nomeadas e qualificadas,duly appointed and styled witnesses
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,matrimônio por livre e espontânea vontade,be married of one's own free will
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,qualificado(a),styled
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,"após o casamento, continuará a usar seu próprio nome",who shall not change his name upon marriage
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,filho de; filha de,a son to; a daughter to
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,regime de casamento; regime de bens,marital property regime
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,comunhão parcial de bens,community of property
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,separação total de bens,separation of property
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,a saber,namely
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,edital de proclamas,banns of marriage
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,em fé do que; e para constar,in witness whereof
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,dou fé [do que veio antes],attest to the foregoing
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,provimento,administrative rule
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,[o conteúdo] deste contrato,[the contents] hereof
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,neste ato representado,herein represented
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,condições estipuladas entre as partes,conditions agreed upon by the parties
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,na forma prevista neste contrato; nos termos de presente documento,as provided herein
+CERTIDÃO DE CASAMENTO DE INTEIRO TEOR / CERTIFICATE OF MARRIAGE IN FULL FORM,oriundo/decorrente deste contrato,arising out of this contract; hereunder
